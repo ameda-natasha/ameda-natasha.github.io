@@ -25,24 +25,23 @@ description: "Hi, I'm Natasha — Aspiring Security engineer. I break down how s
 url: "https://ameda-natasha.github.io"
 
 github:
-  username: ameda-natasha # change to your GitHub username
+  username: ameda-natasha
 
 twitter:
-  username: Ameda_Tash # change to your Twitter username
+  username: Ameda_Tash
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Ameda Natasha
-  email: amedanatasha1@gmail.com # change to your email address
+  email: amedanatasha1@gmail.com
   fediverse_handle: # fill in your fediverse handle. E.g. "@username@domain.com"
   links:
     # The first element serves as the copyright owner's link
-    - http://x.com/Ameda_Tash # change to your Twitter homepage
-    - https://github.com/ameda-natasha # change to your GitHub homepage
-    # Uncomment below to add more social links
+    - https://x.com/Ameda_Tash
+    - https://github.com/ameda-natasha
+    - https://www.linkedin.com/in/ameda-natasha
     # - https://www.facebook.com/username
-    https://www.linkedin.com/in/ameda-natasha
 
 # Site Verification Settings
 webmaster_verifications:
