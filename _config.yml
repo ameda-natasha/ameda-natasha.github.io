@@ -14,12 +14,12 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Ameda Natasha
+title: "Ameda Natasha"
 
 tagline: Cybersecurity | GRC | Pentester | AI
 
-description: >- # used by seo meta and the atom feed
- Hi, I'm Natasha — Aspiring Security engineer. I break down how systems fail so organisations can build them stronger | This is my journey in cybersec.
+description: # used by seo meta and the atom feed
+ "Hi, I'm Natasha — Aspiring Security engineer. I break down how systems fail so organisations can build them stronger | This is my journey in cybersec."
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
