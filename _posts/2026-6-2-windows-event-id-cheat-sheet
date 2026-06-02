@@ -1,13 +1,14 @@
 ---
-Windows Event ID Cheat Sheet (SOC Analyst Project)
-
 title: "Windows Event ID Cheat Sheet (SOC Analyst Project)"
-date: 2026-08-05 08:00:00 +0300
+date: 2025-08-05 08:00:00 +0300
 categories: [Cybersecurity, SOC]
 tags: [SOC, Windows, EventIDs, Detection]
 pin: true
 ---
-I created a structured cheat sheet of the most critical Windows Event IDs used in SOC monitoring and incident detection. It focuses on authentication events, privilege escalation, persistence techniques, and attacker behavior in Windows environments.
+
+# Windows Event ID Cheat Sheet (SOC Analyst Project)
+
+I created a structured cheat sheet of the most critical Windows Event IDs used in SOC monitoring and incident detection.
 
    Key Event IDs Covered
 4624 – Successful logon (used for tracking account access)
