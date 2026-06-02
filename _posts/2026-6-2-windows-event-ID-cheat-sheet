@@ -6,7 +6,6 @@ categories: [Cybersecurity, SOC]
 tags: [SOC, Windows, EventIDs, Detection]
 pin: true
 ---
-## Overview
 I created a structured cheat sheet of the most critical Windows Event IDs used in SOC monitoring and incident detection. It focuses on authentication events, privilege escalation, persistence techniques, and attacker behavior in Windows environments.
 
    Key Event IDs Covered
