@@ -1,0 +1,31 @@
+---
+title: "Windows Event ID Cheat Sheet (SOC Analyst Project)"
+date: 2026-06-02 17:00:02
+categories: [Cybersecurity, SOC]
+tags: [SOC, Windows, EventIDs, Detection]
+pin: true
+---
+
+# Windows Event ID Cheat Sheet (SOC Analyst Project)
+
+I created a structured cheat sheet of the most critical Windows Event IDs used in SOC monitoring and incident detection.
+
+   Key Event IDs Covered
+4624 – Successful logon (used for tracking account access)
+4625 – Failed logon attempts (brute force detection)
+4688 – Process creation (malware execution monitoring)
+4104 – PowerShell script execution (fileless attack detection)
+4720 – User account creation (persistence detection)
+4728 – Privileged group membership changes (privilege escalation)
+7045 – New service installed (persistence technique)
+1102 – Security logs cleared (defense evasion)
+4769 – Kerberos service ticket requests (Kerberoasting detection)
+
+   Skills Demonstrated
+Windows event log analysis
+Threat detection mapping
+SOC monitoring fundamentals
+Understanding of attacker techniques (MITRE-style thinking)
+
+   Full Cheat Sheet
+View full document on GitHub: https://github.com/ameda-natasha
